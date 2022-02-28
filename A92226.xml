@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for establishment of publike sale. Humbly tendered, as well in behalf of the Common-wealth, as likewise of the purchasers of the estate of Sir John Stowel, and all others, who upon the warrant and authority of an Act of Parliament, and in service thereto have not engaged their estates and money, but the price and blood of themselves and nearest relations.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92226</idno>
+            <idno type="STC">Wing R495</idno>
+            <idno type="STC">Thomason 669.f.19[36]</idno>
+            <idno type="STC">ESTC R212337</idno>
+            <idno type="EEBO-CITATION">99870967</idno>
+            <idno type="PROQUEST">99870967</idno>
+            <idno type="VID">163374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for establishment of publike sale. Humbly tendered, as well in behalf of the Common-wealth, as likewise of the purchasers of the estate of Sir John Stowel, and all others, who upon the warrant and authority of an Act of Parliament, and in service thereto have not engaged their estates and money, but the price and blood of themselves and nearest relations.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stawell, John, --  Sir, 1599-1662 --  Estate --  Early works to 1800.</term>
+               <term>Decedents' estates --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163374:1" rendition="simple:additions"/>
+            <head>REASONS for Eſtabliſhment of Publike Sale.</head>
+            <div type="part">
+               <head>Humbly tendered, as well in behalf of the Common-wealth, as likewiſe of the Purchaſers of the Eſtate of Sir John Stowel, and all others,
+who upon the Warrant and Authority of an Act of Parliament, and in ſervice thereto have not only engaged their Eſtates and money,
+but the price and blood of themſelves and neareſt Relations.</head>
+               <p>1. <seg rend="decorInit">I</seg>T is an abſolute maxime, that no power can be of continuance unleſſe founded on the title of Land and that foundation cannot be laid without
+credit to ſell.</p>
+               <p>2. One Preſident of Revocation, will make the credit of the State excommunicate, none will buy or ſell with it; For once forſworn, ever
+forlorn.</p>
+               <p>3. This will deſtroy the being of Souldiery, by making all got by the ſword unſaleable; Neither can the ſpoiles and Conqueſts, though of the whole world,
+be of uſe, if not vendible; But then the more victories the poorer.</p>
+               <p>4. There is no other permanent Barre againſt the King of the Scots, but ſales of land; And to deſtroy theſe, will reduce him.</p>
+               <p>5. If Articles may reverſe ſales, by the ſame juſtice ought perjury in Witneſſes, injuſtice in Judges abſence of Witneſſes or Parties at time of their tri<g ref="char:EOLhyphen"/>al,
+new Diſcoveries ſince, and infinite others, which principle will make queſtionable, or deſtroy all Sales ever made or to be made, and leave the Par<g ref="char:EOLhyphen"/>liament
+no power at all to warrant any.</p>
+               <p>6. Reverſing Sales will make the Enemie potent and formidable, and Friend poor and deſpicable.</p>
+               <p>7. The Friend loſt, and Enemie not got, but made more fit for diſſimulation and dangerouſneſſe, neither is there any way to aſſure them, but tranſplanting
+to other lands on the Parliaments title.</p>
+               <p>8. To unfreeze an Enemie, and be ſtung to death, is folly, not charity.</p>
+               <p>9. Touching Grants by Act of Parl. Neceſſity and the Law of the Land frees them from being avoided by any errour of Fact, Law, or Equity preceding.</p>
+               <p>1. Otherwiſe no Enemy could or would Article, Truce or League with the Parliament, for feare of inviſible errour and preincumbrance on their Acts,
+and want of power to warrant them.</p>
+               <p>2. Such a principle may not only deſtroy all Articles in general, but doth particularly thoſe of <hi>Exceter;</hi> For at the beginning of the wars, all Adherers to
+the Parl. were promiſed Indempnity therein, againſt the Delinquent and his Party; which very Indempnity is clean contrary ſince by thoſe Articles
+granted the Delinquent againſt them; and that without any ceremony or hearing of thoſe innocent Adherers or their Friends, who had loſt their Lives
+and eſtates in the Service: And it cannot therfore be Reaſon or Juſtice to allow the Delinquent to diſannul the Act of Sale by a pre-promiſe of Indem<g ref="char:EOLhyphen"/>nity
+in Articles, and not to allow thoſe Innocents to avoid his Act of Articles by thoſe pre-promiſes of Indempnity to them at the beginning of the
+warres.</p>
+               <p>3. All Acts of Indempnity to their own Souldiery might be avoided, by admitting Reviewes for Errour or Equity preceding.</p>
+               <p>4. All our ancient Parliament-Lawes, and <hi>Magna Charta</hi> it ſelf may be avoided on that ground.</p>
+               <p>5. As to Eſt<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes and Titles, if an Act of Parliament ſhall not be a <hi>Non ultra</hi> of Controverſies, the liberty of the People is deſtroyed; and there is no Free<g ref="char:EOLhyphen"/>hold
+in <hi>England,</hi> but all Tenants at will.</p>
+               <p>6. It is in vain in the regulation of the Law, to free inferiour tranſactions, from ſecret pre-incumbrances, if the Supreme are liable to the ſame, or worſe.</p>
+               <p>10 It is unjuſt if Acts of Sale ſhould be binding to Innocents, and not to Delinquents: what a ſhame would it be if our Lawes ſhould be cords to one, and
+cob-webs to the other?</p>
+               <p>11. <hi>It is unjuſt to preferre a pure Promiſe before property; For</hi> Rem Domino vel non Domino vendente duobus; In jure eſt potior traditione prior.</p>
+               <p>12. <hi>Quod fieri non debet factum valet.</hi> If an Inheretrix happen to be married, or Inheritance ſold, though contrary to Articles; it is not lawful to performe
+thoſe Articles by committing adultery or robbery, for that were to do evil that good might come thereby: But there is an honourable and juſt way left
+to performe them, which is reſtitution in value, and may be more honourable too then <hi>ſpecie,</hi> for value may be ſevenfold if Parties pleaſe; But <hi>ſpecie</hi> can
+be but ſingle.</p>
+               <p>13. It is a known Rule, if Covenants happen by matter <hi>ex poſt facto,</hi> to be either impoſſible in themſelves, injuſt as to third perſons, contrary to the
+Lawes, or inconſiſtent with publick ſafety. It is unlawful to perform them otherwiſe then in value.</p>
+               <p>14. No ſupreme power ought to repeal their own Bargaines and Seales, though they may their lawes, for <hi>Regum Contractus non ſunt leges.</hi>
+               </p>
+               <p>15. By the very words of the Articles of <hi>Exceter,</hi> a Delinquent neither doth nor can claim to be in better condition then the reſidue of the ſubjects of
+<hi>England.</hi> And they if their Eſtates happen to be ſold by command of Authority, either by a miſtake in Parliament, or erroneous judgement at Common-Law;
+or if they have a Title to a Truſt or Equity in <hi>Chancery,</hi> wherof Purchaſers have no notice, they muſt loſe it, and be content with ſuch recompence in
+value as the Law allowes, what an Abomination would it be, if two meaſures of juſtice ſhould be kept, a great at for the Enemy, and a ſmall for the ſubject.</p>
+               <p>16. The Caſe in point is reſolved and practiſed to the Subjects of <hi>Ireland,</hi> yet have they as good Articles as thoſe of <hi>Exceter,</hi> as appears by the Act for
+ſetling <hi>Ireland,</hi> dated 12. <hi>Aug.</hi> 1652. in the tenth Article and laſt Proviſo; for it is thereby expreſſely inacted, <hi>That they may be tranſ-planted from their
+owne Eſtates to remote Eſtates of like value, notwithſtanding they have beene adjudged compriſed within Articles.</hi>
+               </p>
+               <p>17. Purchaſers are for the moſt part undone, and incapable of Indempnity, Tenants having drowned and forfeited their Eſtates, Widowes, Wives, Or<g ref="char:EOLhyphen"/>phans
+and fatherleſſe, having yielded up their portions; And the eſtate paſſed from hand to hand, to ſo many manner of conveyances, uſes, truſts and
+croſſe Covenants, as is impoſſible to reconcile or accommodate with any value; whereas the eſtate of the Delinquent is only the intereſt of a ſingle per<g ref="char:EOLhyphen"/>ſon,
+who can alledge no reaſon why to avoid all theſe inconveniences, he ſhould not accept an eſtate equal or better then his owne in value; But only
+that he ſcornes to take land on the Title, either of Parliament or Army.</p>
+               <p>18. Touching Honour, it will reflect deeply on the Honour of the Parliament, to retract their own Sales; on the Honour of the Protector, he himſelf being
+ſo eminently named, and made a Party to the Act of Sale; On the Honour of the Army, the people eſteeming publique Sales to be the military Mar<g ref="char:EOLhyphen"/>ket,
+and planting of the Speare, where by the Lawes of Nations all ought to have ſecurity and protection in dealing, and the rights of buying and ſel<g ref="char:EOLhyphen"/>ling
+to be obſerved inviolable. And the Honour of God not to juſtifie Delinquents to deſtroy Innocents.</p>
+               <p>By all which it is hoped it will appear to all juſt and intelligent perſons, that to reverſe publick Sales of Delinquents Lands, made by Act of Par<g ref="char:EOLhyphen"/>liament
+upon Articles or any cauſe preceding, whereof Purchaſers had no notice, is contrary to Wiſdom, Juſtice, Honour and the Laws of God and man.</p>
+            </div>
+            <div type="part">
+               <head>Reaſons why the Purchaſers of Sir John Stowels Estate, deſire the late Vote concerning the confirmation of the Purchaſes may be enacted.</head>
+               <p>1. A Great noiſe of terrour is ſpread amongſt the People by the proceeding of the
+Committee of Articles; and men ſtill remain fearful to bring in their money to
+the State, unleſſe ſatisfied with an Act.</p>
+               <p>2. The preſumption of the Committee of Articles in thoſe proceedings againſt the Reſolu<g ref="char:EOLhyphen"/>tion
+of the laſt Parliament was grounded meerly on this, <hi>That the ſame was a Vote, and
+not an Act.</hi>
+               </p>
+               <p>3. In the Intervals of Parliaments, on the ſame grounds men of impudent ſpirits will ſleight
+a Vote not enacted.</p>
+               <p>4. It is uſual and equal for Sellers to do Acts of further aſſurance</p>
+               <p>5. The Purchaſers are menaced and threatned they ſhall not hold quiet
+long what they have purchaſed.</p>
+               <p>6. They ſhall not be able to ſell off their Purchaſes to others, but with great
+loſſe.</p>
+               <p>7. An Act leaves Purchaſers in no other condition as againſt the State, then
+they were before, but onely is to ſecure them againſt Sir <hi>John Stowel.</hi>
+               </p>
+               <p>8 Many Acts of Parliament have been confirmed again by Parliament, though
+ſufficiently valid before, and particularly <hi>Magna Charta,</hi> though unqueſti<g ref="char:EOLhyphen"/>onable
+in its ſelf hath been confirmed above thirty ſeveral times.</p>
+            </div>
+            <div type="Act_of_Parliament">
+               <opener>
+                  <dateline>
+                     <date>Thurſday the thirteenth of October, 1653.</date>
+                  </dateline>
+               </opener>
+               <head>An Act for confirmation of the Sale of the Lands and Eſtate of Sir John Stowel Knight of the Bath.</head>
+               <p>BE it Enacted and Declared by Authority of Parliament, That all Sales made of any Eſtate, Lands, Tenements, Hereditaments, Goods or Chattels of Sir <hi>John Stowel</hi>
+Knight of the Bath, by vertue or appointment of any Act or Acts of Parliament, are hereby confirmed and eſtabliſhed: And accordingly all Purchaſers and Buyers of
+the ſame, ſhall and may have, hold, and quietly enjoy the ſame to them, their Heirs and Aſſignes, according to their reſpective Intereſt and Eſtates purchaſed or bought,
+and according to the Rules, Conditions, and Limitations preſcribed in the ſaid Acts, Any Law or Judgement to the contrary notwithſtanding:</p>
+               <closer>
+                  <signed>Hen. Scobell, Clerk Parl.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
